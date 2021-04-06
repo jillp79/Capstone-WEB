@@ -1,3 +1,25 @@
+# Jill Plansky
+# Overview
+Capstone Project/Question App -
+This app allows users to register/login and add or remove questions under categories. It also allows the user to add and remove answers under questions. 
+It also allows the user to select a correct question. Answers are tagged with the login user name with the answer component item.
+
+# Project Hosting 
+[Capstone Project](https://agile-castle-38199.herokuapp.com)
+
+# Technologies used
+React, HTML, CSS, Capstone Api hosted at https://jill-capstone-api.herokuapp.com , and Sequelize
+
+# Ideas for future improvement
+Add funtionality to update/add/remove catagories.
+
+# User Story
+As a User, I would like to post questions and answers under a category.
+
+# Presentational & Container Components
+Added Ant Design icons
+Added Ant Design
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
